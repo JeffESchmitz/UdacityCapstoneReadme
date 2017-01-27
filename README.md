@@ -3,7 +3,7 @@
 ### [Udacity iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003) Capstone Project
 In this capstone project, students will create an app of their own design that showcases our iOS development skills.
 
-
+### App Description:
 RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS. Inspired and based upon the fantastic Android application, [Moyeu](https://github.com/garuma/Moyeu) developed by [Jérémie Laval](https://github.com/garuma?tab=overview&from=2016-12-01&to=2016-12-31&utf8=✓).
 
 
