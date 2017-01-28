@@ -9,7 +9,7 @@ RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS
 
 
 
-## Getting Started
+### Getting Started
 
 Run the following command in root directory to populate CocoaPods.
 ```bash
@@ -26,12 +26,12 @@ Artwork:
 - [Noun_536.svg - Bicycle](https://thenounproject.com/term/bicycle/536/) from [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 - [Star_on.svg, Star_off.svg](https://github.com/jamesmontemagno/BikeNow) from [James Montemagno's](https://github.com/jamesmontemagno) [BikeNow](https://github.com/jamesmontemagno/BikeNow) GitHub repository.
 - [Map Pin images](https://www.shutterstock.com/image-vector/25-simple-mapping-pins-icon-web-66302356?src=download_history) designed by [Vector Illustration](https://www.shutterstock.com/g/vector+illustration#)
-- <a href="http://thenounproject.com/noun/bicycle/#icon-No3535" target="_blank">Bicycle</a> designed by <a href="http://thenounproject.com/ugur.akdemir" target="_blank">Ugur Akdemir</a> from The Noun Project
-- <a href="https://flic.kr/p/q386Lu" target="_blank">Hubway</a> by Tony Webster (CC BY)
+- [Bicycle](http://thenounproject.com/noun/bicycle/#icon-No3535) designed by [Ugur Akdemir](http://thenounproject.com/ugur.akdemir) from The Noun Project
+- [Hubway](https://flic.kr/p/q386Lu) by Tony Webster (CC BY)
 
 Data provided by [Hubway](https://www.thehubway.com) at [http://thehubway.com/data/stations/bikeStations.json](http://thehubway.com/data/stations/bikeStations.json)
 
-## Code style
+### Code style
 
 This project will follow the [GitHub Swift Styleguide](https://github.com/github/swift-style-guide) in every way possible.
 
