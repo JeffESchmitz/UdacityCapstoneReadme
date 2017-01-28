@@ -141,3 +141,13 @@ In order to enforce this, the project will also have a [Swiftlint](https://githu
 - [SwiftGen](https://github.com/AliSoftware/SwiftGen): A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …)
 - [Fabric](https://docs.fabric.io/apple/fabric/overview.html): Fabric is a mobile platform with modular kits you can mix and match to build the best apps
 - [Crashlytics](https://fabric.io/kits/ios/crashlytics/install): The most powerful, yet lightest weight crash reporting solution
+
+### Tools used during creation
+
+- [Xcode](https://developer.apple.com/xcode/downloads/) 
+- [The Noun Project](https://thenounproject.com)
+- [Gimp ](https://www.gimp.org)
+
+
+
+
