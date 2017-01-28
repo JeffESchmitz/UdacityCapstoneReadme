@@ -69,17 +69,12 @@ Green | 10 to 16 bikes
 * Aside from your primary app state, you should find some additional state that can be stored outside of Core Data, either in NSUserDefaults, or in the documents directory using an NSKeyedArchiver
   * [x] *I am using NSUserDefaults to store last viewed region coordinates of the Map View.*
 
-
 #### README
 * Describe the intended user experience
   * [x] *Done.*
 * Include all specific actions and/or commands necessary for the reviewer to compile, run, and access any aspect of the project
   * [x] *Done.* 
-
-
-<br />
-<br />
-<br />
+  
 ## 4. Credits
 ## Credits
 Artwork:
@@ -96,7 +91,9 @@ Data provided by [Hubway](https://www.thehubway.com) at [http://thehubway.com/da
 ## 5. Tech Details
 ### Getting Started
 
-Run the following command in root directory to populate CocoaPods.
+Xcode 8 (using Swift 3) is required in order open, build and run the application in a simulator or on a device.
+
+Before opening the workspace, navigate to the directory where the RideNiceRide.xcodeproj is located and run the following command to populate the required CocoaPods.
 ```bash
 pod install
 ```
