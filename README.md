@@ -62,8 +62,20 @@ Green | 10 to 16 bikes
   * [x] *Code to detect changes of network availability is contained inside class file ReachabilityManager.swift.*
 
 #### Persistance
+* Include an object graph that can be persisted in Core Data
+  * [x] *I persist both Station and FavoriteStation objects via Core Data.*
+* Manage the Core Data Stack outside of your view controllers, either in the App Delegate or in a separate Core Data Stack manager class
+  * [x] *All 'Data Access' currently is encapsulated within the HubwayAPI class. This was a intended decision as the Networking and Data access code footprint is small, I wanted to keep it close together. In future iterations, I am planning on splitting the Data Access code outside of the Networking (API-related) code for better separation of concerns.*
+* Aside from your primary app state, you should find some additional state that can be stored outside of Core Data, either in NSUserDefaults, or in the documents directory using an NSKeyedArchiver
+  * [x] *I am using NSUserDefaults to store last viewed region coordinates of the Map View.*
+
 
 #### README
+* Describe the intended user experience
+  * [x] *Done.*
+* Include all specific actions and/or commands necessary for the reviewer to compile, run, and access any aspect of the project
+  * [x] *Done.*
+
 
 <br />
 <br />
