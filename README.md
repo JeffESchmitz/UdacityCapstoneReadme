@@ -5,7 +5,7 @@
 In this capstone project, students will create an app of their own design that showcases our iOS development skills.
 
 ### App Description:
-RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS.  
+RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS. View up-to-date bike and station availability, store favorite stations and view your Hubway account details.  
 *Inspired and based upon the fantastic Android application, [Moyeu](https://github.com/garuma/Moyeu) developed by [Jérémie Laval](https://github.com/garuma?tab=overview&from=2016-12-01&to=2016-12-31&utf8=✓).*
 
 ## 2. User Experience
