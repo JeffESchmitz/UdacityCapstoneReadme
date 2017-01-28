@@ -144,10 +144,11 @@ In order to enforce this, the project will also have a [Swiftlint](https://githu
 
 ### Tools used during creation
 
-- [Xcode](https://developer.apple.com/xcode/downloads/) 
+- [Xcode](https://developer.apple.com/xcode/) 
 - [The Noun Project](https://thenounproject.com)
 - [Gimp ](https://www.gimp.org)
-
+- [Asset Catalog Creator](http://www.bridgetech.io)
+- [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio)
 
 
 
