@@ -30,8 +30,6 @@ Green | 10 to 16 bikes
 - This panorama view allows the user to visualize what the bike station should appear like and allow them to quickly pinpoint the station if they choose to seek out and rent a bicycle.
 - Clicking on a star while a map pin has been activated will store that map location into a favorite. 
 - The favorite is another view allowing the user to access via the left-hand slide menu (hamburger menu), displaying a list of all of stored favorite stations.
-
-
 - Tapping on the upper left hamburger menu will open up the menu to select the favorites for you. The favorites you shows the list of stations that the user has starred and swiping to the left the user is able to remove a favorite from the favorite list.
 
 <br />
