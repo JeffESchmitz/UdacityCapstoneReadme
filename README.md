@@ -74,7 +74,7 @@ Green | 10 to 16 bikes
 * Describe the intended user experience
   * [x] *Done.*
 * Include all specific actions and/or commands necessary for the reviewer to compile, run, and access any aspect of the project
-  * [x] *Done.*
+  * [x] *Done.* 
 
 
 <br />
