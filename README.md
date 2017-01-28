@@ -48,7 +48,7 @@ Green | 10 to 16 bikes
 * A table or collection view
   * [x] *Favorites list is a table view.*
 * Navigation and modal presentation
-  * [x] *This app provides navigation via the left-hand slide menu (Hamburger menu). *
+  * [x] *This app provides navigation via the left-hand slide menu (Hamburger menu).*
 
 #### Networking
 
