@@ -10,7 +10,7 @@ RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS
 
 #### Screenshots:  
 ![1-StartUp](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/1-RideNiceRide-Startup-iPhone7.png) ![2-Mapview-Station](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/2-RideNiceRide-MapView-Station-iPhone7.png) ![Panorama](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/3-RideNiceRide-Panorama-iPhone7.png)
-![SlideMenu](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/4-RideNiceRide-SlideMenu-iPhone7.png)
+![SlideMenu](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/4-RideNiceRide-SlideMenu-iPhone7.png) ![Favorites](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/5-RideNiceRide-Favorites-iPhone7.png) ![RentalHistory](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/6-RideNiceRide-RentalHistory-iPhone7.png)
 
 ## Usage
 - On startup, the application will center the map on Boston, MA. and plot up-to-date bicycle station information as Pin's on the map.
