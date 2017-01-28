@@ -13,8 +13,8 @@ RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS
 
 ## Usage
 - On startup, the application will center the map on Boston, MA. and plot up-to-date bicycle station information as Pin's on the map.
-- On app startup, the user will be presented a map of the Boston Hubway bicycle sharing system map of current availabilty of bicycles for rent.
-- Pins on the map represent stations containing bicyles.
+- On app startup, the user will be presented a map of the Boston Hubway bicycle sharing system map of current availability of bicycles for rent.
+- Pins on the map represent stations containing bicycles.
 - Each pin displays the number of bicycles available and are color-coded to quickly determine general bicycle availability.
 
 Color | Description
@@ -25,7 +25,7 @@ Orange | 1 to 4 bikes
 Light Green | 5 to 9 bikes
 Green | 10 to 16 bikes
 
-- Tapping a pin on the map will slide up a menu at the bottom of the screen displaying the name of the sation and the active bikes available for rent as well as the total number of bikes the docking station can hold.
+- Tapping a pin on the map will slide up a menu at the bottom of the screen displaying the name of the station and the active bikes available for rent as well as the total number of bikes the docking station can hold.
 - Sliding the bottom menu up will display a panoramic view of the surrounding area.
 - This panorama view allows the user to visualize what the bike station should appear like and allow them to quickly pinpoint the station if they choose to seek out and rent a bicycle.
 - Clicking on a star while a map pin has been activated will store that map location into a favorite. 
@@ -35,7 +35,7 @@ Green | 10 to 16 bikes
  - Rental Account History
 - Favorites is a view allowing the user to view a list of all of stored favorite stations.
 - While on the Favorites view, users can remove a favorite by swiping left on the specified row.
-- Also, tapping on a specifice Favorite map view will launch the iOS Map application allowing the user to map directions and see what businesses are around their chosen station.
+- Also, tapping on a specific Favorite map view will launch the iOS Map application allowing the user to map directions and see what businesses are around their chosen station.
 - Rental History is a view that will open up a new screen allowing the user to enter their HubWay credentials and access their HubWay account details. 
 
 
