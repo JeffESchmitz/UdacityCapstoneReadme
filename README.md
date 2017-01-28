@@ -22,7 +22,8 @@ Now you can open `RideNiceRide.xcworkspace` and Run the `RideNiceRide` target on
 
 Icons:
 
-- <a href="http://thenounproject.com/noun/map/#icon-No5260" target="_blank">Map</a> designed by <a href="http://thenounproject.com/jonathan" target="_blank">Jonathan Higley</a> from The Noun Project
+- <a href="https://pbs.twimg.com/profile_banners/90715747/1483463516/1500x500" target="_blank">Mass-bike</a> from <a href="http://www.massbike.org" target="_blank">MassBike.org</a>
+
 - <a href="http://thenounproject.com/noun/bicycle/#icon-No3535" target="_blank">Bicycle</a> designed by <a href="http://thenounproject.com/ugur.akdemir" target="_blank">Ugur Akdemir</a> from The Noun Project
 
 Images:
