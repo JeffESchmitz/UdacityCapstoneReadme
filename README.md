@@ -1,3 +1,4 @@
+## 1. App Title
 # RideNiceRide
 
 ### [Udacity iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003) Capstone Project
@@ -8,18 +9,15 @@ RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS
 *Inspired and based upon the fantastic Android application, [Moyeu](https://github.com/garuma/Moyeu) developed by [Jérémie Laval](https://github.com/garuma?tab=overview&from=2016-12-01&to=2016-12-31&utf8=✓).*
 
 
-
-### Getting Started
-
-Run the following command in root directory to populate CocoaPods.
-```bash
-pod install
-```
-Now you can open `RideNiceRide.xcworkspace` and Run the `RideNiceRide` target onto your simulator or iOS device.
+## 2. User Experience
 
 
+## 3. Rubric review
+
+
+
+## 4. Credits
 ## Credits
-
 Artwork:
 
 - [Mass-bike](https://pbs.twimg.com/profile_banners/90715747/1483463516/1500x500) from [MassBike.org](http://www.massbike.org)
@@ -30,6 +28,17 @@ Artwork:
 - [Hubway](https://flic.kr/p/q386Lu) by Tony Webster (CC BY)
 
 Data provided by [Hubway](https://www.thehubway.com) at [http://thehubway.com/data/stations/bikeStations.json](http://thehubway.com/data/stations/bikeStations.json)
+
+
+
+## 5. Tech Details
+### Getting Started
+
+Run the following command in root directory to populate CocoaPods.
+```bash
+pod install
+```
+Now you can open `RideNiceRide.xcworkspace` and Run the `RideNiceRide` target onto your simulator or iOS device.
 
 ### Code style
 
