@@ -8,14 +8,40 @@ In this capstone project, students will create an app of their own design that s
 RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS.  
 *Inspired and based upon the fantastic Android application, [Moyeu](https://github.com/garuma/Moyeu) developed by [Jérémie Laval](https://github.com/garuma?tab=overview&from=2016-12-01&to=2016-12-31&utf8=✓).*
 
-
 ## 2. User Experience
+## Screen Shots here
+
+## Usage
+- On startup, the application will center the map on Boston, MA. and plot up-to-date bicycle station information as Pin's on the map.
+- On app startup, the user will be presented a map of the Boston Hubway bicycle sharing system map of current availabilty of bicycles for rent.
+- Pins on the map represent stations containing bicyles.
+- Each pin displays the number of bicycles available and are color-coded to quickly determine general bicycle availability.
+
+Color | Description
+--- | ---
+Blue | Station Locked
+Red | No bikes
+Orange | 1 to 4 bikes
+Light Green | 5 to 9 bikes
+Green | 10 to 16 bikes
+
+- Tapping a pin on the map will slide up a menu at the bottom of the screen displaying the name of the sation and the active bikes available for rent as well as the total number of bikes the docking station can hold.
+- Sliding the bottom menu up will display a panoramic view of the surrounding area.
+- This panorama view allows the user to visualize what the bike station should appear like and allow them to quickly pinpoint the station if they choose to seek out and rent a bicycle.
+- Clicking on a star while a map pin has been activated will store that map location into a favorite. 
+- The favorite is another view allowing the user to access via the left-hand slide menu (hamburger menu), displaying a list of all of stored favorite stations.
 
 
+- Tapping on the upper left hamburger menu will open up the menu to select the favorites for you. The favorites you shows the list of stations that the user has starred and swiping to the left the user is able to remove a favorite from the favorite list.
+
+<br />
+<br />
+<br />
 ## 3. Rubric review
 
-
-
+<br />
+<br />
+<br />
 ## 4. Credits
 ## Credits
 Artwork:
@@ -28,8 +54,6 @@ Artwork:
 - [Hubway](https://flic.kr/p/q386Lu) by Tony Webster (CC BY)
 
 Data provided by [Hubway](https://www.thehubway.com) at [http://thehubway.com/data/stations/bikeStations.json](http://thehubway.com/data/stations/bikeStations.json)
-
-
 
 ## 5. Tech Details
 ### Getting Started
