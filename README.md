@@ -1,4 +1,3 @@
-## 1. App Title
 # RideNiceRide
 
 ### [Udacity iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003) Capstone Project
@@ -39,7 +38,6 @@ Green | 10 to 16 bikes
 - Also, tapping on a specific Favorite map view will launch the iOS Map application allowing the user to map directions and see what businesses are around their chosen station.
 - Rental History is a view that will open up a new screen allowing the user to enter their HubWay credentials and access their HubWay account details. 
 
-## 3. Requirements
 ### App Specifications
 
 #### User Interface
@@ -75,7 +73,6 @@ Green | 10 to 16 bikes
 * Include all specific actions and/or commands necessary for the reviewer to compile, run, and access any aspect of the project
   * [x] *Done.* 
   
-## 4. Credits
 ## Credits
 Artwork:
 
@@ -88,7 +85,7 @@ Artwork:
 
 Data provided by [Hubway](https://www.thehubway.com) at [http://thehubway.com/data/stations/bikeStations.json](http://thehubway.com/data/stations/bikeStations.json)
 
-## 5. Tech Details
+## Technical Details
 ### Getting Started
 
 Xcode 8 (using Swift 3) is required in order open, build and run the application in a simulator or on a device.
