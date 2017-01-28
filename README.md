@@ -23,6 +23,7 @@ Now you can open `RideNiceRide.xcworkspace` and Run the `RideNiceRide` target on
 Icons:
 
 - [Mass-bike](https://pbs.twimg.com/profile_banners/90715747/1483463516/1500x500) from [MassBike.org](http://www.massbike.org)
+- [Noun_536.svg - Bicycle](https://thenounproject.com/term/bicycle/536/) from [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 - <a href="http://thenounproject.com/noun/bicycle/#icon-No3535" target="_blank">Bicycle</a> designed by <a href="http://thenounproject.com/ugur.akdemir" target="_blank">Ugur Akdemir</a> from The Noun Project
 
 Images:
