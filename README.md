@@ -144,11 +144,16 @@ In order to enforce this, the project will also have a [Swiftlint](https://githu
 
 ### Tools used during creation
 
-- [Xcode](https://developer.apple.com/xcode/) 
+- [Xcode](https://developer.apple.com/xcode/)
+- [SourceTree](https://www.sourcetreeapp.com)
 - [The Noun Project](https://thenounproject.com)
 - [Gimp ](https://www.gimp.org)
 - [Asset Catalog Creator](http://www.bridgetech.io)
 - [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio)
-
-
-
+- [BeyondCompare](http://www.scootersoftware.com)
+- [SQLPro for SQLite](https://www.sqlitepro.com)
+- [Postman](https://www.getpostman.com)
+- [StackOverflow](www.stackoverflow.com)
+- [Xamarin Studio Community Edition](https://www.xamarin.com)
+- [GitHub Desktop](https://desktop.github.com)
+- [Microsoft OneNote](https://www.onenote.com/download)
