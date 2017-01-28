@@ -44,7 +44,7 @@ Green | 10 to 16 bikes
 #### User Interface
 
 * More than one view controller
-  * *Yes. This application features a number of different view controllers and views. It contains a views for each main content area (Map, Favorites, Rental History) along with a SlideMenu (a.k.a Hamburger Menu) as well as a special PullUp view that allows the user's interaction to stay focused on the Map view when selecting/de-selecting favorite stations.*
+  * [x]*This application features a number of different view controllers and views. It contains a views for each main content area (Map, Favorites, Rental History) along with a SlideMenu (a.k.a Hamburger Menu) as well as a special PullUp view that allows the user's interaction to stay focused on the Map view when selecting/de-selecting favorite stations.*
 * A table or collection view
   * *Yes*
 
