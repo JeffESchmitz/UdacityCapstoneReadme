@@ -8,8 +8,8 @@ In this capstone project, students will create an app of their own design that s
 RideNiceRide is the best way to enjoy Boston's Hubway bike sharing system on iOS. View up-to-date bike and station availability, store favorite stations and view your Hubway account details.  
 *Inspired and based upon the fantastic Android application, [Moyeu](https://github.com/garuma/Moyeu) developed by [Jérémie Laval](https://github.com/garuma?tab=overview&from=2016-12-01&to=2016-12-31&utf8=✓).*
 
-### Screenshots:  
-![StartUp](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/1-RideNiceRide-Startup-iPhone7.jpg) ![PhotoAlbum](https://github.com/JeffESchmitz/VirtualTourist/blob/master/PhotoAlbum.png)
+#### Screenshots:  
+![1-StartUp](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/1-RideNiceRide-Startup-iPhone7.jpg) ![2-Mapview-Station](https://github.com/JeffESchmitz/RideNiceRide/blob/master/Artwork/screenshots/2-RideNiceRide-MapView-Station-iPhone7.jpg)
 
 ## Usage
 - On startup, the application will center the map on Boston, MA. and plot up-to-date bicycle station information as Pin's on the map.
