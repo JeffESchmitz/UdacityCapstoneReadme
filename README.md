@@ -40,6 +40,16 @@ Green | 10 to 16 bikes
 - Rental History is a view that will open up a new screen allowing the user to enter their HubWay credentials and access their HubWay account details. 
 
 ## 3. Rubric review
+### App Specifications
+#### User Interface
+* More that one view controller
+ * *This application features a number of different view controllers and views. It contains a views for each main content area (Map, Favorites, Rental History) along with a SlideMenu (a.k.a Hamburger Menu) as well as a special PullUp view that allows the user's interaction to stay focused on the Map view when selecting/de-selecting favorite stations.
+
+#### Networking
+
+#### Persistance
+
+#### README
 
 <br />
 <br />
