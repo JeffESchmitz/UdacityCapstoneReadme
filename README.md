@@ -39,10 +39,6 @@ Green | 10 to 16 bikes
 - Also, tapping on a specific Favorite map view will launch the iOS Map application allowing the user to map directions and see what businesses are around their chosen station.
 - Rental History is a view that will open up a new screen allowing the user to enter their HubWay credentials and access their HubWay account details. 
 
-
-<br />
-<br />
-<br />
 ## 3. Rubric review
 
 <br />
