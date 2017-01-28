@@ -20,14 +20,13 @@ Now you can open `RideNiceRide.xcworkspace` and Run the `RideNiceRide` target on
 
 ## Credits
 
-Icons:
+Artwork:
 
 - [Mass-bike](https://pbs.twimg.com/profile_banners/90715747/1483463516/1500x500) from [MassBike.org](http://www.massbike.org)
 - [Noun_536.svg - Bicycle](https://thenounproject.com/term/bicycle/536/) from [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+- [Star_on.svg, Star_off.svg](https://github.com/jamesmontemagno/BikeNow) from [James Montemagno's](https://github.com/jamesmontemagno) [BikeNow](https://github.com/jamesmontemagno/BikeNow) GitHub repository.
+- [Map Pin images](https://www.shutterstock.com/image-vector/25-simple-mapping-pins-icon-web-66302356?src=download_history) designed by [Vector Illustration](https://www.shutterstock.com/g/vector+illustration#)
 - <a href="http://thenounproject.com/noun/bicycle/#icon-No3535" target="_blank">Bicycle</a> designed by <a href="http://thenounproject.com/ugur.akdemir" target="_blank">Ugur Akdemir</a> from The Noun Project
-
-Images:
-
 - <a href="https://flic.kr/p/q386Lu" target="_blank">Hubway</a> by Tony Webster (CC BY)
 
 Data provided by Hubway at [http://thehubway.com/data/stations/bikeStations.json](http://thehubway.com/data/stations/bikeStations.json)
