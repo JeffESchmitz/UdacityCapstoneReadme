@@ -39,18 +39,27 @@ Green | 10 to 16 bikes
 - Also, tapping on a specific Favorite map view will launch the iOS Map application allowing the user to map directions and see what businesses are around their chosen station.
 - Rental History is a view that will open up a new screen allowing the user to enter their HubWay credentials and access their HubWay account details. 
 
-## 3. Rubric review
+## 3. Requirements
 ### App Specifications
-#### User Interface
 
+#### User Interface
 * More than one view controller
   * [x] *This application features a number of different view controllers and views. It contains a views for each main content area (Map, Favorites, Rental History) along with a SlideMenu (a.k.a Hamburger Menu) as well as a special PullUp view that allows the user's interaction to stay focused on the Map view when selecting/de-selecting favorite stations.*
 * A table or collection view
   * [x] *Favorites list is a table view.*
 * Navigation and modal presentation
   * [x] *This app provides navigation via the left-hand slide menu (Hamburger menu).*
+* Image assets in 1x, 2x, and 3x formats. Or in vector format.
+  * [x] *All image assets are in 1x, 2x, and 3x formats.*
 
 #### Networking
+* Choose an API and integrate downloaded data into the app
+  * [x] *I access the public API of [Hubway System Data](https://www.thehubway.com/system-data) JSON feed at URL: https://feeds.thehubway.com/stations/stations.json.*
+* Give users feedback around network activity, displaying activity indicators and/or progress bars when appropriate, and an alert in case of connection failures
+  * [x] *A HUD (Heads Up Display) is shown to the user when retrieving network data as well as this HUD displays network error information when unable to connect or invalid JSON other network-related errors.*
+* Encapsulate networking code in a class to reduce detail in View Controllers
+  * [x] *Code that access the network is contained inside class file HubwayAPI.swift.*
+  * [x] *Code to detect changes of network availability is contained inside class file ReachabilityManager.swift.*
 
 #### Persistance
 
