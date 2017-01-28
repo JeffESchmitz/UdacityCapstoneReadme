@@ -29,8 +29,15 @@ Green | 10 to 16 bikes
 - Sliding the bottom menu up will display a panoramic view of the surrounding area.
 - This panorama view allows the user to visualize what the bike station should appear like and allow them to quickly pinpoint the station if they choose to seek out and rent a bicycle.
 - Clicking on a star while a map pin has been activated will store that map location into a favorite. 
-- The favorite is another view allowing the user to access via the left-hand slide menu (hamburger menu), displaying a list of all of stored favorite stations.
-- Tapping on the upper left hamburger menu will open up the menu to select the favorites for you. The favorites you shows the list of stations that the user has starred and swiping to the left the user is able to remove a favorite from the favorite list.
+- Tapping on the upper left-hand slide menu (hamburger menu) will open a menu to select navigation options.
+ - Map
+ - Favorites
+ - Rental Account History
+- Favorites is a view allowing the user to view a list of all of stored favorite stations.
+- While on the Favorites view, users can remove a favorite by swiping left on the specified row.
+- Also, tapping on a specifice Favorite map view will launch the iOS Map application allowing the user to map directions and see what businesses are around their chosen station.
+- Rental History is a view that will open up a new screen allowing the user to enter their HubWay credentials and access their HubWay account details. 
+
 
 <br />
 <br />
